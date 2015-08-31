@@ -2,6 +2,7 @@
 *.rbc
 DS_Store
 /.config
+/.idea
 /coverage/
 /InstalledFiles
 /pkg/
