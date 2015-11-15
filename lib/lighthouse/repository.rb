@@ -5,7 +5,7 @@ module Lighthouse
 
 	class Repository
 		
-		API_URL = 'http://52.28.185.96/api/v1/'
+		API_URL = 'http://light-tower.cloudapp.net/api/v1/'
 
     def initialize(connection)
       @connection = connection
